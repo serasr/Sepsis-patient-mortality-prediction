@@ -2,9 +2,9 @@
 # rate of sepsis patients in the intensive care unit (ICU)
 
 COMP90089: Machine Learning Applications for Health.  
-Semester 2, 2023.
-University of Melbourne
-Group - 1
+Semester 2, 2023,
+University of Melbourne, 
+Group - 1.
 
 ## Description
 This project focuses on studying the potential link between blood glucose levels and patient mortality in the context of sepsis within the ICU. Sepsis is a severe condition triggered by the body's response to infection, which can lead to organ failure and has a significant impact on global healthcare.
