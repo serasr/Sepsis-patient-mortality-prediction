@@ -1,5 +1,4 @@
-# Impact of blood glucose levels and glucose variability on the mortality
-# rate of sepsis patients in the intensive care unit (ICU)
+# Impact of blood glucose levels and glucose variability on the mortality rate of sepsis patients in the intensive care unit (ICU)
 
 COMP90089: Machine Learning Applications for Health.  
 Semester 2, 2023,
