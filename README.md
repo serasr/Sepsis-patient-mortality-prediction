@@ -2,7 +2,7 @@
 
 <!--#### COMP90089: Machine Learning Applications for Health.  
 #### Semester 2, 2023-->
-#### University of Melbourne 
+#### The University of Melbourne 
 <!--#### Group - 1-->
 
 ## Description
